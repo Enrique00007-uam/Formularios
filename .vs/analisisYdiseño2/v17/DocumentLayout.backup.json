@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solis\\source\\repos\\analisisYdise\u00F1o2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E953FFF-B2EC-4BC6-ADD8-EF301FE0844B}|analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj|c:\\users\\solis\\source\\repos\\analisisydise\u00F1o2\\analisisydise\u00F1o2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E953FFF-B2EC-4BC6-ADD8-EF301FE0844B}|analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj|solutionrelative:analisisydise\u00F1o2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E953FFF-B2EC-4BC6-ADD8-EF301FE0844B}|analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj|c:\\users\\solis\\source\\repos\\analisisydise\u00F1o2\\analisisydise\u00F1o2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E953FFF-B2EC-4BC6-ADD8-EF301FE0844B}|analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj|solutionrelative:analisisydise\u00F1o2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|analisisYdise\u00F1o2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E953FFF-B2EC-4BC6-ADD8-EF301FE0844B}|analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj|c:\\users\\solis\\source\\repos\\analisisydise\u00F1o2\\analisisydise\u00F1o2\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7E953FFF-B2EC-4BC6-ADD8-EF301FE0844B}|analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj|solutionrelative:analisisydise\u00F1o2\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "analisisYdise\u00F1o2",
+              "DocumentMoniker": "C:\\Users\\solis\\source\\repos\\analisisYdise\u00F1o2\\analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj",
+              "RelativeDocumentMoniker": "analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj",
+              "ToolTip": "C:\\Users\\solis\\source\\repos\\analisisYdise\u00F1o2\\analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj",
+              "RelativeToolTip": "analisisYdise\u00F1o2\\analisisYdise\u00F1o2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T13:52:15.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\source\\repos\\analisisYdise\u00F1o2\\analisisYdise\u00F1o2\\Form1.cs",
+              "RelativeDocumentMoniker": "analisisYdise\u00F1o2\\Form1.cs",
+              "ToolTip": "C:\\Users\\solis\\source\\repos\\analisisYdise\u00F1o2\\analisisYdise\u00F1o2\\Form1.cs*",
+              "RelativeToolTip": "analisisYdise\u00F1o2\\Form1.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:20:52.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solis\\source\\repos\\analisisYdise\u00F1o2\\analisisYdise\u00F1o2\\Form1.cs",
+              "RelativeDocumentMoniker": "analisisYdise\u00F1o2\\Form1.cs",
+              "ToolTip": "C:\\Users\\solis\\source\\repos\\analisisYdise\u00F1o2\\analisisYdise\u00F1o2\\Form1.cs [Design]*",
+              "RelativeToolTip": "analisisYdise\u00F1o2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:17:24.657Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

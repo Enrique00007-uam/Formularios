@@ -1,0 +1,14 @@
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\bin\Debug\analisisYdiseño2.exe.config
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\bin\Debug\analisisYdiseño2.exe
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\bin\Debug\analisisYdiseño2.pdb
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\bin\Debug\MetroFramework.Design.dll
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\bin\Debug\MetroFramework.dll
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\obj\Debug\analisisYdiseño2.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\obj\Debug\analisisYdiseño2.Producto.resources
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\obj\Debug\analisisYdiseño2.Properties.Resources.resources
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\obj\Debug\analisisYdiseño2.csproj.GenerateResource.cache
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\obj\Debug\analisisYdiseño2.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\obj\Debug\analisis.AF4C7C12.Up2Date
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\obj\Debug\analisisYdiseño2.exe
+C:\Users\solis\source\repos\analisisYdiseño2\analisisYdiseño2\obj\Debug\analisisYdiseño2.pdb
